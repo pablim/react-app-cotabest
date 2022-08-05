@@ -15,17 +15,19 @@ const List = (props) => {
                 <div 
                   role="card-list-item-showed"
                   key={character.id} 
-                  className='d-flex rounded'
-                  style={{
-                    backgroundColor: 'white', 
-                    width: '400px'
-                  }}
+                  className='card d-flex flex-row rounded'
                 >
                   <div className='m-2 '>
-                    <img alt="Avatar" className='rounded' src={character.image} width="100"/>
+                    <img 
+                      className='rounded' 
+                      src={character.image} 
+                      alt="Avatar" 
+                      width="100"/>
                   </div>
                   <div className='d-flex flex-column m-2'>
-                    <div className='fs-5 fw-bold text-nowrap'>{character.name}</div>
+                    <div className='fs-5 fw-bold text-nowrap'>
+                      {character.name}
+                    </div>
                     <div>Gender: {character.gender}</div>
                     <div>Status: {character.status}</div>
                     <div>Species: {character.species}</div>

@@ -10,23 +10,23 @@ import {
 
 const Search = (props) => {
 
-    const onSearchChange = (e) => {
-        props.onChange(e.target.value)
-    }
+  const onSearchChange = (e) => {
+      props.onChange(e.target.value)
+  }
 
-    return (
-        <div className='d-flex justify-content-center p-5'>
-            <Input 
-                role="search-input"
-                className="search-input rounded-5 w-75"
-                size="large"  
-                allowClear 
-                defaultValue="" 
-                placeholder="Procure um personagem" 
-                onChange={onSearchChange}
-                prefix={<SearchOutlined />}/>
-        </div>
-    )
+  return (
+    <div className='d-flex justify-content-center p-5'>
+        <Input
+          role="search-input"
+          className="search-input rounded-5 w-75"
+          size="large"
+          allowClear
+          defaultValue=""
+          placeholder="Procure um personagem"
+          onChange={onSearchChange}
+          prefix={<SearchOutlined />}/>
+    </div>
+  )
 }
 
 const mapDispatchToProps = (dispactch) => {
