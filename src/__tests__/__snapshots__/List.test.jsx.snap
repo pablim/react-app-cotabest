@@ -1,0 +1,2482 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`list rendering 1`] = `
+<div
+  className="d-flex flex-wrap gap-2 justify-content-center mt-5"
+>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Rick Sanchez
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Morty Smith
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Summer Smith
+      </div>
+      <div>
+        Gender: 
+        Female
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Beth Smith
+      </div>
+      <div>
+        Gender: 
+        Female
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Jerry Smith
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/6.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Abadango Cluster Princess
+      </div>
+      <div>
+        Gender: 
+        Female
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Alien
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/7.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Abradolf Lincler
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        unknown
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/8.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Adjudicator Rick
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Dead
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/9.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Agency Director
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Dead
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/10.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Alan Rails
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Dead
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/11.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Albert Einstein
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Dead
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/12.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Alexander
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Dead
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/13.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Alien Googah
+      </div>
+      <div>
+        Gender: 
+        unknown
+      </div>
+      <div>
+        Status: 
+        unknown
+      </div>
+      <div>
+        Species: 
+        Alien
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/14.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Alien Morty
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        unknown
+      </div>
+      <div>
+        Species: 
+        Alien
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/15.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Alien Rick
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        unknown
+      </div>
+      <div>
+        Species: 
+        Alien
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/16.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Amish Cyborg
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Dead
+      </div>
+      <div>
+        Species: 
+        Alien
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/17.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Annie
+      </div>
+      <div>
+        Gender: 
+        Female
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/18.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Antenna Morty
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/19.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Antenna Rick
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        unknown
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/20.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Ants in my Eyes Johnson
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        unknown
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`list rendering 2`] = `
+<div
+  className="d-flex flex-wrap gap-2 justify-content-center mt-5"
+>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Rick Sanchez
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Morty Smith
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Summer Smith
+      </div>
+      <div>
+        Gender: 
+        Female
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Beth Smith
+      </div>
+      <div>
+        Gender: 
+        Female
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Jerry Smith
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/6.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Abadango Cluster Princess
+      </div>
+      <div>
+        Gender: 
+        Female
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Alien
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/7.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Abradolf Lincler
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        unknown
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/8.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Adjudicator Rick
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Dead
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/9.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Agency Director
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Dead
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/10.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Alan Rails
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Dead
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/11.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Albert Einstein
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Dead
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/12.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Alexander
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Dead
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/13.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Alien Googah
+      </div>
+      <div>
+        Gender: 
+        unknown
+      </div>
+      <div>
+        Status: 
+        unknown
+      </div>
+      <div>
+        Species: 
+        Alien
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/14.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Alien Morty
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        unknown
+      </div>
+      <div>
+        Species: 
+        Alien
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/15.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Alien Rick
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        unknown
+      </div>
+      <div>
+        Species: 
+        Alien
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/16.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Amish Cyborg
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Dead
+      </div>
+      <div>
+        Species: 
+        Alien
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/17.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Annie
+      </div>
+      <div>
+        Gender: 
+        Female
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/18.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Antenna Morty
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/19.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Antenna Rick
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        unknown
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/20.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Ants in my Eyes Johnson
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        unknown
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`list rendering 3`] = `
+<div
+  className="d-flex flex-wrap gap-2 justify-content-center mt-5"
+>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Rick Sanchez
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Morty Smith
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Summer Smith
+      </div>
+      <div>
+        Gender: 
+        Female
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Beth Smith
+      </div>
+      <div>
+        Gender: 
+        Female
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Jerry Smith
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/6.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Abadango Cluster Princess
+      </div>
+      <div>
+        Gender: 
+        Female
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Alien
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/7.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Abradolf Lincler
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        unknown
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/8.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Adjudicator Rick
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Dead
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/9.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Agency Director
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Dead
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/10.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Alan Rails
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Dead
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/11.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Albert Einstein
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Dead
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/12.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Alexander
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Dead
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/13.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Alien Googah
+      </div>
+      <div>
+        Gender: 
+        unknown
+      </div>
+      <div>
+        Status: 
+        unknown
+      </div>
+      <div>
+        Species: 
+        Alien
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/14.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Alien Morty
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        unknown
+      </div>
+      <div>
+        Species: 
+        Alien
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/15.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Alien Rick
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        unknown
+      </div>
+      <div>
+        Species: 
+        Alien
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/16.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Amish Cyborg
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Dead
+      </div>
+      <div>
+        Species: 
+        Alien
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/17.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Annie
+      </div>
+      <div>
+        Gender: 
+        Female
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/18.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Antenna Morty
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        Alive
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/19.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Antenna Rick
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        unknown
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+  <div
+    className="d-flex rounded"
+    role="card-list-item-showed"
+    style={
+      Object {
+        "backgroundColor": "white",
+        "width": "400px",
+      }
+    }
+  >
+    <div
+      className="m-2 "
+    >
+      <img
+        className="rounded"
+        src="https://rickandmortyapi.com/api/character/avatar/20.jpeg"
+        width="100"
+      />
+    </div>
+    <div
+      className="d-flex flex-column m-2"
+    >
+      <div
+        className="fs-5 fw-bold text-nowrap"
+      >
+        Ants in my Eyes Johnson
+      </div>
+      <div>
+        Gender: 
+        Male
+      </div>
+      <div>
+        Status: 
+        unknown
+      </div>
+      <div>
+        Species: 
+        Human
+      </div>
+    </div>
+  </div>
+</div>
+`;

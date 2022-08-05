@@ -1,0 +1,12 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import '~antd/dist/antd.css';
+
+@font-face {
+    font-family: rickmorty;
+    src: url("../public/get_schwifty.ttf");
+}
+
+.App {
+    min-height: 100vh;
+    background-color: black;
+}
