@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Clone and run ### `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -41,6 +43,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 Project screenshots
 
-![Captura de tela de 2022-08-05 10-25-41](https://user-images.githubusercontent.com/11844740/183086874-3785e580-bf8d-400c-a4c9-7a25dc645dcb.png)
-![Captura de tela de 2022-08-05 10-25-25](https://user-images.githubusercontent.com/11844740/183086882-0a8fba8f-d925-4886-afd5-10aaeee22874.png)
 ![Captura de tela de 2022-08-05 10-25-09](https://user-images.githubusercontent.com/11844740/183086886-bd43c86b-3a71-4f72-8dd3-472418ec0ec9.png)
+![Captura de tela de 2022-08-05 10-25-25](https://user-images.githubusercontent.com/11844740/183086882-0a8fba8f-d925-4886-afd5-10aaeee22874.png)
+![Captura de tela de 2022-08-05 10-25-41](https://user-images.githubusercontent.com/11844740/183086874-3785e580-bf8d-400c-a4c9-7a25dc645dcb.png)
+
